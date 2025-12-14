@@ -153,7 +153,20 @@ Body: Inter
 
 Aesthetic: Traditional charm meets modern UX
 
-![ALT text](images/Home.png)
+![ALT text](images/page1.png)
+
+![ALT text](images/page2.png)
+
+![ALT text](images/page3.png)
+
+![ALT text](images/page4.png)
+
+![ALT text](images/page5.png)
+
+![ALT text](images/page6.png)
+
+![ALT text](images/page7.png)
+
 
 ## AI Usage
 
