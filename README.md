@@ -135,6 +135,8 @@ Coverage: 54 unit & integration tests covering business logic, authentication, a
 
 Test Metrics: Coverage above 70% across all metrics
 
+![ALT text](images/test.png)
+
 ## Design System
 
 Theme: Inspired by traditional Indian sweet shops
@@ -150,6 +152,8 @@ Headings: Playfair Display
 Body: Inter
 
 Aesthetic: Traditional charm meets modern UX
+
+![ALT text](images/Home.png)
 
 ## AI Usage
 
